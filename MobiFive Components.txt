@@ -1,0 +1,34 @@
+Components
+
+ 1.Controllers
+1.Aduino UNO=1
+2.Esp32 CAM-1
+3.L298n Motor Driver-1
+
+ 2.Sensors
+1.IR Sensor=2
+2.Ultrasonic Sensor=1
+
+ 3.Power
+1.7.4v Battery and chase =1
+2.AMS1117 Voltage Regulator
+3.Switch-1
+
+ 4.Motor
+1.sg90 servo motor
+
+ 5.Other
+1.HC05 Bluetooth Module
+2.sg90 servo motor
+3.4 Wheel Smart Car Chassis Kit
+4.Ultrasonic Sensor Holder
+
+
+ 6.Tools
+1.Soldering Iron and Soldering Lead
+2.Glue Gun and Glue Stick 
+3.ScrewDriver
+4.Scissor
+5.Jumper wires
+
+

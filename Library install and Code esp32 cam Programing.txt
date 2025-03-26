@@ -1,0 +1,23 @@
+ESP32 board URL
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXMyUklBQUwzWWRhbnl3dnQwUFZ3NGdIdzBVUXxBQ3Jtc0tudFRCdl9SRHB0RkxtYkQwOGdRMVBKbGw0RV84RWxhMGNqdDl4NjU2WTFmRTlmYVF2UjNGZ0xfR2VZTmI1WFZPVzR1R2kyYUNYVm5RTHFpQzJCSVhydGVKQUJkZHBLSFFQQXhFbFJ1RlByVmdXU00zZw&q=https%3A%2F%2Fdl.espressif.com%2Fdl%2Fpackage_esp32_index.json&v=HfQ7lhhgDOk
+
+AsyncTCP Library
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG1rVjVmd2hFRHZ5T2VndDJVb2Raekx2VkpKZ3xBQ3Jtc0trVnBTd2RUTUxOeDR5QmxiUlI0eGtEMnFBTFpoVTFWaEhoZ0V5NFVUdHBnQ3RJZEdyU0IwdXdtQjdfeUw0dWVncENFTnc4WWtla0xvaUxBSHNSNC1zUU42ZHg5eDhlZk1ZTk5ORzdrdVkwcmplbmx6UQ&q=https%3A%2F%2Fgithub.com%2Fme-no-dev%2FAsyncTCP%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=HfQ7lhhgDOk
+
+ESPAsyncWebServer Library
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG1sRWpiTkdEMGRqc2FKc2Uyb0tiOEtldUZRQXxBQ3Jtc0ttaVQyMWRjT2ZmcUxmQ1dVSFVPOFFOUkJvT1BFU3ZMRnRzbTdPVWwwTlQwR2NnX21PYTJLSURlVVdxQzl2MHIzdU4tSXFhSjZhWDlmamNvNFgtVkVEX0NVc0ZMUXpFbkFseUpfNmJzQVBnUjFjR1RhRQ&q=https%3A%2F%2Fgithub.com%2Fme-no-dev%2FESPAsyncWebServer%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=HfQ7lhhgDOk
+
+Librarys
+
+1.esp_camera.h
+2.Arduino.h
+3.WiFi.h
+4.AsyncTCP.h
+5.ESPAsyncWebServer.h
+6.iostream
+7.sstream
+8.SoftwareSerial.h
+9.IRremote.h
+
+Eesp32 cam code upload video using usb TTL
+https://youtu.be/K13vuf0U3AI?feature=shared
